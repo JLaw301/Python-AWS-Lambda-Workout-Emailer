@@ -1,0 +1,71 @@
+[
+  {
+    "day": "Monday",
+    "exercises": [
+      {
+        "name": "Push-ups",
+        "reps": 12,
+        "sets": 3,
+        "weight": 0
+      },
+      {
+        "name": "Squats",
+        "reps": 12,
+        "sets": 3,
+        "weight": 50
+      },
+      {
+        "name": "Bench Press",
+        "reps": 12,
+        "sets": 3,
+        "weight": 75
+      }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "exercises": [
+      {
+        "name": "Pull-ups",
+        "reps": 12,
+        "sets": 3,
+        "weight": 0
+      },
+      {
+        "name": "Deadlifts",
+        "reps": 12,
+        "sets": 3,
+        "weight": 120
+      },
+      {
+        "name": "Overhead Press",
+        "reps": 12,
+        "sets": 3,
+        "weight": 55
+      }
+    ]
+  },
+  {
+    "day": "Friday",
+    "exercises": [
+      {
+        "name": "Cardio",
+        "reps": 12,
+        "sets": 3,
+        "weight": null
+      },
+      {
+        "name": "Leg Press",
+        "reps": 12,
+        "sets": 3,
+        "weight": 100
+      },
+      {
+        "name": "Bicep Curls",
+        "reps": 12,
+        "sets": 3,
+        "weight": 20
+      }
+    ]
+  }
+]
